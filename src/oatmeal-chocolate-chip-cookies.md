@@ -8,8 +8,8 @@ An unfortunately uncommon style of cookie that is absolutely delicious.
 - 1 teaspoon baking soda
 - 1 teaspoon salt
 - 1 cup shortening
-- 3/4 cups white sugar
-- 3/4 cups brown sugar
+- &#190; cups white sugar
+- &#190; cups brown sugar
 - 2 eggs beaten
 - 1 teaspoon hot water
 - &half;-1 cup chopped nuts
